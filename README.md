@@ -4,3 +4,6 @@
 
 # Make sure to Run this node before running the wallet 
 https://github.com/chimmykk/API-PROXY/tree/master
+
+
+#UPDATING WITH ACCOUNT ABSTRACTION IN COMING WEEKS
